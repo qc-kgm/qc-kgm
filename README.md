@@ -30,6 +30,3 @@
 </p>
 
 ---
-
-### 🌐 Connect with me:
-- [GitHub](https://github.com/qc-kgm)
